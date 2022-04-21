@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "LESSON 1 REMASTEREDwef",
+"productVersion": "0.1",
+"dataUrl": "Lesson 1 REMASTERED.data.unityweb",
+"wasmCodeUrl": "Lesson 1 REMASTERED.wasm.code.unityweb",
+"wasmFrameworkUrl": "Lesson 1 REMASTERED.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.30f1"
+}
